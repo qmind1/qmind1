@@ -8,6 +8,7 @@ Welcome to my profile. I'm currently working into my readme. :construction:
 [<img src="https://img.shields.io/badge/IDE-Visual Studio Code-0078d7?&logo=visualstudio">](<https://google.com/>)
 [<img src="https://img.shields.io/badge/IDE-Code::Blocks-blue?&logo=codeblocks">](<https://google.com/>) <br />
 [<img src="https://img.shields.io/badge/Coding in-C/C++-blue?&logo=cplusplus">](<https://google.com/>) <br />
+[<img src="https://img.shields.io/badge/Learning-Markdown-white?&logo=markdown">](<https://google.com/>)
 [<img src="https://img.shields.io/badge/Learning-Qiskit-blueviolet?&logo=qiskit">](<https://qiskit.org/>)
 [<img src="https://img.shields.io/badge/Learning-Python-306998?&logo=python">](<https://google.com/>)
 [<img src="https://img.shields.io/badge/Learning-Arduino-00878F?&logo=arduino">](<https://google.com/>) <br />
